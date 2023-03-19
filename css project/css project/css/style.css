@@ -1,0 +1,54 @@
+
+html {
+   
+
+} 
+body {
+    font-family: 'Courier New', Courier, monospace;
+    background-color:#001133;
+    color:#FFFFFF ; 
+}
+H1 {
+    font-family:  'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+p { 
+    font-size: 16px;;
+    color: rgb(70, 183, 146)}
+h1 {
+    color: rgb(0, 0, 0);
+    font-size: large;
+}
+
+
+
+.blue {
+    color: rgb(30, 207, 136);
+        font-size: large;
+        font-style:italic;
+}
+
+.pehli {
+    color: rgb(126, 149, 211);
+     font-style:italic ;
+}
+.h11 {
+    color: rgb(211, 124, 124);
+}
+.hi{
+    color: rgb(231, 231, 237);
+    font-size: larger;
+}
+.highlight{
+    color: aqua;
+
+}
+a {
+    color: blanchedalmond;
+    font-family: 'Courier New', Courier, monospace;
+    font-style: italic;
+}
+.p1 {
+    border: #FFFFFF
+    dashed;
+}
+  
